@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ktabori-dixa-mcp-badge.png)](https://mseep.ai/app/ktabori-dixa-mcp)
+
 # Dixa MCP Server
 
 A FastMCP server implementation for the Dixa API, providing resources and tools for managing conversations and tags.
